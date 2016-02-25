@@ -1,0 +1,10 @@
+bsc:
+  name: Bsc Mathematics
+  modules:
+  - core1: ['ma0122', 'ma0123', 'ma0125', 'ma0126']
+    optional1: ['ma0111']
+
+  - core2: ['ma0212', 'ma0221', 'ma2001']
+    optional2: ['ma0236', 'ma0232']
+
+  -optional3: ['ma0391', 'ma0392', 'ma3000']

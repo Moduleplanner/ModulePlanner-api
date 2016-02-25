@@ -1,0 +1,245 @@
+ma0111:
+    name: Elementary Number Theory I
+    description: ''
+
+ma0122:
+    name: Algebra I
+    description: ''
+
+ma0123:
+    name: Analysis I
+    description: ''
+
+ma0125:
+    name: Algebra II
+    requires: ['ma0122']
+    description: ''
+
+ma0126:
+    name: Analysis II
+    requires: ['ma0123']
+    description: ''
+
+ma0212:
+    name: Linear Algebra
+    description: ''
+
+ma0216:
+    name: Elementary Number Theory II
+    requires: ['ma0111']
+    description: ''
+
+ma0221:
+    name: Analysis III
+    requires: ['ma0123', 'ma0126']
+    description: ''
+
+ma0232:
+    name: Modelling with Differential Equations
+    description: ''
+
+ma0235:
+    name: Elementary Fluid Dynamics
+    requires: ['ma1300', 'ma2301']
+    description: ''
+
+ma0261:
+    name: Operational Research
+    requires: ['ma1500']
+    description: ''
+
+ma2063:
+    name: Introduction to Computational Statistics
+    requires: ['ma1501', 'ma2500']
+    description: ''
+
+ma0276:
+    name: Visual Basic Programming for OR
+    requires: ['ma1003']
+    description: ''
+
+ma0291:
+    name: Accountancy
+    description: ''
+
+ma2001:
+    name: Calculus of Several Variables
+    description: ''
+
+ma2002:
+    name: Matrix Algebra
+    description: ''
+
+ma2003:
+    name: Complex Analysis
+    description: ''
+
+ma2004:
+    name: Series and Transforms
+    description: ''
+
+ma2005:
+    name: Ordinary Differential Equations
+    description: ''
+
+ma2300:
+    name: Mechanics II
+    requires: ['ma1300']
+    description: ''
+
+ma2301:
+    name: Vector Calculus
+    description: ''
+
+ma2500:
+    name: Foundations of Probability and Statistics
+    requires: ['ma1500', 'ma1501']
+    description: ''
+
+ma2700:
+    name: Numerical Analysis II
+    description: ''
+
+ma0322:
+    name: Knots
+    requires: ['ma0212']
+    description: ''
+
+ma0332:
+    name: Fluid Mechanics
+    requires: ['ma0235', 'ma2301']
+    description: ''
+
+ma0355:
+    name: Medical Statistics
+    requires: ['ma2500']
+    description: ''
+
+ma0358:
+    name: Mathematical Programming
+    description: ''
+
+ma0367:
+    name: Time Series and Forecasting
+    requires: ['ma2500']
+    description: ''
+
+ma0381:
+    name: Survey Sampling
+    requires: ['ma2500']
+    description: ''
+
+ma0391:
+    name: Full Project
+    description: ''
+
+ma0392:
+    name: Half Project
+    description: ''
+
+ma3000:
+    name: Complex Function Theory
+    requires: ['ma2003']
+    description: ''
+
+ma3003:
+    name: Groups, Rings and Fields
+    description: ''
+
+ma3004:
+    name: Combinatorics
+    description: ''
+
+ma3005:
+    name: Introduction to Functional and Fourier Analysis
+    requires: ['ma0212', 'ma0221']
+    description: ''
+
+ma3006:
+    name: Introduction to Coding Theory and Data Compression
+    requires: ['ma0212']
+    description: ''
+
+ma3301:
+    name: Applied Nonlinear Systems
+    requires: ['ma0232']
+    description: ''
+
+ma3303:
+    name: Theoretical and Computational Partial Differential Equations
+    requires: ['ma0122', 'ma0126']
+    description: ''
+
+ma3304:
+    name: Methods of Applied Mathematics
+    description: ''
+
+ma3500:
+    name: Discrete Optimisation
+    requires: ['ma0358']
+    description: ''
+
+ma3501:
+    name: Elements of Mathematical Statistics
+    requires: ['ma2500']
+    description: ''
+
+ma3502:
+    name: Regression Analysis and Experimental Design
+    requires: ['ma0152']
+    description: ''
+
+ma3503:
+    name: Stochastic Processes for Finance and Insurance
+    requires: ['ma2500']
+    description: ''
+
+ma3600:
+    name: Operational Research II
+    requires: ['ma0261']
+    description: ''
+
+ma3700:
+    name: Mathematical Methods for Data Mining
+    description: ''
+
+ma3900:
+    name: Cyflwyniad i Addysgu Mathemateg mewn Ysgol Uwchradd
+    description: ''
+
+ma4000:
+    name: Operator Algebras and Non-Commutative Geometry
+    description: ''
+
+ma4001:
+    name: Functional Analysis
+    description: ''
+
+ma4007:
+    name: Measure Theory
+    description: ''
+
+ma4008:
+    name: Computational Fluid Analysis
+    requires: ['ma3303']
+    description: ''
+
+ma4009:
+    name: Mathematical Principles of Image Processing
+    description: ''
+
+ma4011:
+    name: Combinatorial and Analytic Number Theory
+    description: ''
+
+ma4012:
+    name: Finite Elasticity
+    description: ''
+
+ma4900:
+    name: MMath Project
+    description: ''
+
+ma4901:
+    name: Reading Module
+    description: ''
