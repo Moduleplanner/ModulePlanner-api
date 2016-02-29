@@ -2,6 +2,8 @@
 
 A website to help students choose their modules
 
+See this [codepen](http://codepen.io/alcarney/pen/VaYYgp?editors=1111) for a possible implementation
+
 Installation
 ============
 
